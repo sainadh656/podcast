@@ -19,11 +19,11 @@ Designed for showcasing podcast episodes with an embedded audio player and an ea
 
  📂 Folder Structure
 
- podcast/
-    -README.md
-    -pod.css # Main CSS file
-    -podcast1.html # Main HTML file
-    -podcastmusic.mp3 # audio files
+ podcast
+    - README.md
+    - pod.css # Main CSS file
+    - podcast1.html # Main HTML file
+    - podcastmusic.mp3 # audio files
 
 
 📸 Screenshots-
